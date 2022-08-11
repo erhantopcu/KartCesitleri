@@ -4,15 +4,23 @@ class Program
 {
     static void Main(string[] args)
     {
-
+        Console.WriteLine("Kart No Giriniz");
         string KartNo = Console.ReadLine();
         Console.WriteLine(" KartNo : " + KartNo);
-        KartTipi tip = KartTipi.Ogrenci;
+
+        Console.WriteLine("Kart Tipi Giriniz");
+        KartTipi tip = KartTipi.Yasli;
         Console.WriteLine(" KartTipi : " + tip);
+
+        Console.WriteLine("İsim Giriniz");
         string Name = Console.ReadLine();
         Console.WriteLine(" Name : " + Name);
+
+        Console.WriteLine("Soyisim Giriniz");
         string Surname = Console.ReadLine();
         Console.WriteLine(" Surname : " + Surname);
+
+        Console.WriteLine("TC Giriniz");
         string ID = Console.ReadLine();
         Console.WriteLine(" ID : " + ID);
 

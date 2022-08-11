@@ -30,6 +30,14 @@ namespace KartCesitleri
             {
                 Bakiye -= (ucret*0.25M);
             }
+            else if (Tip == KartTipi.Personel)
+            {
+                Bakiye -= (ucret * 0.75M);
+            }
+            else if (Tip == KartTipi.Yasli)
+            {
+                Bakiye -= (ucret * 0.40M);
+            }
 
         }
 
