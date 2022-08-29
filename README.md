@@ -1,4 +1,4 @@
-# KartCesitleri
+# Ulaşım Kartları
 
 -TechCity şehrinde insanlar ulaşım için hala nakit ödeme yapıyorlar. Şehir yönetimi çağın gerekliliklerine uygun olarak ulaşım sisteminde dijital kullanıma geçmeyi planlıyor. Şehir halkının ihtiyaçlarına göre aşağıda detaylandırılmış bu sistemin geliştirilmesi işini sizin firmanıza verdiler. Siz de firmanın yazılımcısı olarak gereken uygulamayı geliştireceksiniz.
 
